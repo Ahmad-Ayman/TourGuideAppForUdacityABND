@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pharaonic"
+            android:icon="@drawable/phar"
+            android:title="@string/pharaonic" />
+        <item
+            android:id="@+id/nav_islamic"
+            android:icon="@drawable/mosque"
+            android:title="@string/islamic" />
+        <item
+            android:id="@+id/nav_christian"
+            android:icon="@drawable/church"
+            android:title="@string/christian" />
+        <item
+            android:id="@+id/nav_modern"
+            android:icon="@drawable/library"
+            android:title="@string/modern" />
+    </group>
+
+    <item android:title="@string/external">
+        <menu>
+            <item
+                android:id="@+id/nav_wiki"
+                android:icon="@drawable/wiki"
+                android:title="@string/wiki" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="pharaonic">Pharaonic Places</string>
+    <string name="islamic">Islamic Places</string>
+    <string name="christian">Christian Places</string>
+    <string name="modern">Modern Places</string>
+    <string name="wiki">Wiki Egypt</string>
+    <string name="external">External Links</string>
+    <string name="errormsg">Error Getting Data</string>
+    <string name="placeholder">Hello</string>
+    <string name="showdatalog">showdata</string>
+    <string name="successLog">Success</string>
+    <string name="errorLog">Error</string>
+    <string name="failure">onFailure</string>
+    <string name="ow">Overview: </string>
+    <string name="interested">Interested ?</string>
+    <string name="loca">Get Location on Map!</string>
+    <string name="country">Egypt</string>
+    <string name="country_desc">All Egypt Places in one Place</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
